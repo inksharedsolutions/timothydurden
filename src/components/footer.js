@@ -93,13 +93,13 @@ const Footer = () => {
                                 </Link>
                             </li>
                             <li>
-                                <Link to="/about-the-author">
-                                    About the Author
+                                <Link to="/author">
+                                    Author
                                 </Link>
                             </li>
                             <li>
-                                <Link to="/about-the-book">
-                                    About the Book
+                                <Link to="/books">
+                                    Books
                                 </Link>
                             </li>
                             <li>

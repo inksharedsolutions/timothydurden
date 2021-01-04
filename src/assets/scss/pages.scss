@@ -10,7 +10,7 @@ $prm-font-size : 12px;
 .web-banner {
 
     content: "";
-    background: url("../../../static/banner/banner2.jpg") no-repeat;
+    background: linear-gradient(rgba(52, 154, 189, 0.7), rgba(52, 154, 189, 0.7)), url("../../../static/banner/banner3-min.jpg") no-repeat;
     position: relative;
     height: 500px;
     width: 100%;

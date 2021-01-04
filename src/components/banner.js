@@ -12,7 +12,7 @@ const Banner = () => {
                             <div className="banner-text">
 
                                 <h1>
-                                    The Sailor and the Sermon
+                                    The <span>Sailor</span> and the <span>Sermon</span>
                                 </h1>
 
                                 {/* <p className="right-sub-text">

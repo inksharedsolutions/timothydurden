@@ -11,11 +11,11 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
-            <Helmet title="About the Author | Hadar Shmaryahu Ya'akov"/>
+            <Helmet title="Author | Hadar Shmaryahu Ya'akov"/>
                 <Nav pathExt={props.path} />
 
                 <Banner
-                    spanFirst={`About The`}
+                    spanFirst={``}
                     contextHeading={`Author`} />
 
                 <div className="container">
