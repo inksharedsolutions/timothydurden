@@ -79,6 +79,19 @@ const Footer = () => {
                                             icon={faGoodreads} />
                                     </a>
                                 </li>
+
+                                <li>
+                                    <a
+                                        target="_blank"
+                                        href="https://www.youtube.com/user/timdurden1"
+                                        rel="noreferrer"
+                                    >
+
+                                        <FontAwesomeIcon
+                                            className='font-awesome'
+                                            icon={faYoutube} />
+                                    </a>
+                                </li>
                             </ul>
 
                         </nav>
