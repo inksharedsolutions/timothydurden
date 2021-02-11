@@ -51,7 +51,7 @@ const ATB = (props) => {
                                     `,
 
                                 ebooks: {
-                                    stratton: 'https://www.stratton-press.com/books/the-sailor-and-the-sermon/',
+                                    stratton: '',
                                     barnes: 'https://www.barnesandnoble.com/w/the-sailor-and-the-sermon-hadar-shmaryahu-yaakov/1137421373?ean=9781648950568',
                                     amazon: 'https://www.amazon.com/Sailor-Sermon-Hadar-Shmaryahu-Yaakov-ebook/dp/B08F2XKQN7/ref=sr_1_1?dchild=1&keywords=9781648950568&qid=1597083446&sr=8-1',
                                 },
